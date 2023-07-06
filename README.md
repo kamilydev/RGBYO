@@ -1,2 +1,2 @@
 # RGBYO
-Game de adivinhação das cores apartir do RGB
+Game de adivinhação das cores com base no RGB
